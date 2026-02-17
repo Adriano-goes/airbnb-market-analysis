@@ -2,42 +2,6 @@
 
 This project analyzes Airbnb listing data to explore pricing behavior, host performance, and neighborhood-level market dynamics. The goal is to identify patterns that influence listing prices and booking performance.
 
-## Construction Year Trend
-
-![Line chart showing the distribution of Airbnb listings by construction year](images/construction_year_trend.png)
-
----
-
-## Top 10 Most Expensive Neighborhoods
-
-![Horizontal bar chart showing the top 10 most expensive neighborhoods by average price](images/most_expensive.png)
-
----
-
-## Top 10 Least Expensive Neighborhoods
-
-![Horizontal bar chart showing the 10 least expensive neighborhoods by average price](images/least_expensive.png)
-
----
-
-## Price Distribution by Room Type
-
-![Boxplot illustrating price distribution across different room types](images/price_room_type.png)
-
----
-
-## Review Rate vs Log(Price)
-
-![Scatter plot with regression line showing relationship between review rate and log-transformed price](images/reviews_price_regression.png)
-
----
-
-## Reviews per Month by Host Type
-
-![Boxplot comparing reviews per month between verified and non-verified hosts](images/superhost_reviews.png)
-
-
-
 # Objectives
 
 _ Clean and transform raw Airbnb data
@@ -80,3 +44,21 @@ _ Pandas
 _ NumPy
 _ Matplotlib
 _ Seaborn
+
+## Construction Year Trend
+![Construction Year Trend](images/construction_year_trend.png)
+
+## Top 10 Most Expensive Neighborhoods
+![Top 10 Most Expensive Neighborhoods](images/most_expensive.png)
+
+## Top 10 Least Expensive Neighborhoods
+![Top 10 Least Expensive Neighborhoods](images/least_expensive.png)
+
+## Price Distribution by Room Type
+![Price Distribution by Room Type](images/price_room_type.png)
+
+## Review Rate vs Log(Price)
+![Review Rate vs Log(Price)](images/reviews_price_regression.png)
+
+## Reviews per Month by Host Type
+![Reviews per Month by Host Type](images/superhost_reviews.png)
