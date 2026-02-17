@@ -1,2 +1,46 @@
-# airbnb-market-analysis
-This project analyzes Airbnb listing data to understand pricing patterns, host performance, and neighborhood-level market differences. The goal is to identify key factors that influence listing prices and host success, such as room type, review scores, and neighborhood location.
+# Airbnb Market Analysis
+
+This project analyzes Airbnb listing data to explore pricing behavior, host performance, and neighborhood-level market dynamics. The goal is to identify patterns that influence listing prices and booking performance.
+
+# Objectives
+
+_ Clean and transform raw Airbnb data
+_ Analyze pricing differences across neighborhoods
+_ Compare host performance metrics
+_ Investigate the relationship between reviews and price
+
+# Dataset
+
+_ Airbnb Open Data (CSV format)
+
+# Includes:
+
+_ Pricing data
+_ Service fees
+_ Room types
+_ Review metrics
+_ Host verification status
+_ Neighborhood information
+
+# Key Insights
+_ Price varies significantly across neighborhoods.
+_ Room type strongly influences price distribution.
+_ Reviews are highly skewed: a small number of listings capture most engagement.
+_ Verified hosts tend to receive higher engagement metrics compared to non-verified hosts.
+_ No strong linear relationship was found between review rating and price.
+
+# Methods
+
+_ Data cleaning (missing values, duplicates, standardization)
+_ Feature engineering (days_booked, host categories)
+_ Exploratory data analysis (EDA)
+_ Statistical summaries
+_ Visualizations (boxplots, bar charts, regression analysis)
+
+# Tools
+
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
