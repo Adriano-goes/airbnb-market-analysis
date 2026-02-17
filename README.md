@@ -45,6 +45,10 @@ _ NumPy
 _ Matplotlib
 _ Seaborn
 
+_________________________________________________________________
+
+# 🔴 Plots
+
 ## Construction Year Trend
 ![Construction Year Trend](construction_year_trend.png)
 
