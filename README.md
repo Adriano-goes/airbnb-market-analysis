@@ -39,8 +39,8 @@ _ Visualizations (boxplots, bar charts, regression analysis)
 
 # Tools
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+_ Python
+_ Pandas
+_ NumPy
+_ Matplotlib
+_ Seaborn
