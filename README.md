@@ -46,19 +46,19 @@ _ Matplotlib
 _ Seaborn
 
 ## Construction Year Trend
-![Construction Year Trend](images/construction_year_trend.png)
+![Construction Year Trend](construction_year_trend.png)
 
 ## Top 10 Most Expensive Neighborhoods
-![Top 10 Most Expensive Neighborhoods](images/most_expensive.png)
+![Top 10 Most Expensive Neighborhoods](most_expensive.png)
 
 ## Top 10 Least Expensive Neighborhoods
-![Top 10 Least Expensive Neighborhoods](images/least_expensive.png)
+![Top 10 Least Expensive Neighborhoods](least_expensive.png)
 
 ## Price Distribution by Room Type
-![Price Distribution by Room Type](images/price_room_type.png)
+![Price Distribution by Room Type](price_room_type.png)
 
 ## Review Rate vs Log(Price)
-![Review Rate vs Log(Price)](images/reviews_price_regression.png)
+![Review Rate vs Log(Price)](reviews_price_regression.png)
 
 ## Reviews per Month by Host Type
-![Reviews per Month by Host Type](images/superhost_reviews.png)
+![Reviews per Month by Host Type](superhost_reviews.png)
